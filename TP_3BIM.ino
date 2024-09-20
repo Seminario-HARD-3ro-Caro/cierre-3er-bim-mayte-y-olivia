@@ -1,13 +1,13 @@
 // Ejercicio evaluatorio 3er bimestre
 /*
   Integrantes
-    Nombre:
-    Apellido:
-    Curso:
+    Nombre: Olivia
+    Apellido: Naiderman
+    Curso: 3A TIC
     
-    Nombre:
-    Apellido:
-    Curso:
+    Nombre: Mayte
+    Apellido: Calvert de Bohun
+    Curso: 3A TIC
   
 Congisgnas
   Conexionado:
@@ -21,8 +21,8 @@ Congisgnas
         LED3:
         LED4:
       Valor:
-        R_boton:
-        R_LEDs:
+        R_boton: 330 Ohms 1%
+        R_LEDs: 330 Ohms 1%
 
   Progamas:
     Se deben entregar un programa distinto por cada punto. Los programas son una modificación entre ellos.
